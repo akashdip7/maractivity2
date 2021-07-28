@@ -4,7 +4,7 @@
 
 ## Please go to this link to see the project- 
 
-- [Heroku app - https://dan-tic-tac-toe.herokuapp.com/](https://dan-tic-tac-toe.herokuapp.com/)
+- [Herokuapp Tic Toc Toe ](https://dan-tic-tac-toe.herokuapp.com/)
 
 ## Screenshots
 
@@ -13,7 +13,8 @@
 ## To run it on your local machine clone into the repo, then type:
 
 
-`npm start`
+npm install && npm start
+
 
 
 ## Development
